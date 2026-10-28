@@ -7,6 +7,8 @@
 ## 最新项目 / Project Update
 
 - [后置换热端项目（中文）](./后置换热端/README.md) | [English](./后置换热端/README_EN.md)
+- [后置换热端 SB 外壳版本（7z）](./%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AF/%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AFsb%E5%A4%96%E5%A3%B3%E7%89%88%E6%9C%AC.7z) | [English](./%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AF/%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AFsb%E5%A4%96%E5%A3%B3%E7%89%88%E6%9C%AC.7z)
+- [后置 CNC 版本（中文）](./后置cnc版本/README.md) | [Rear-Mounted CNC Version (English)](./Rear-Mounted-CNC-Version/README.md)
 - [6.11 CNC 文件包](./6.11%20cnc.zip)
 
 # [CxChanger]

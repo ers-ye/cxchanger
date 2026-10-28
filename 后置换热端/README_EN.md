@@ -6,6 +6,7 @@ This folder contains the mesh model and motion parameters for a rear-mounted hot
 
 - `后置换热端完整全套 修复版本.stl`: the complete repaired STL mesh supplied for this project. STL does not contain a parametric feature tree and cannot be edited like a STEP solid; use suitable mesh or CAD software if geometry changes are needed.
 - `dock_motion_parameters.txt`: the original Chinese dock-motion parameter snippet. The parameters are explained below.
+- [Rear-Mounted Hotend SB Shell Version (7z archive)](%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AFsb%E5%A4%96%E5%A3%B3%E7%89%88%E6%9C%AC.7z): the supplied shell-version package.
 
 ## Dock motion parameters
 
