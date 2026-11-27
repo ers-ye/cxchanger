@@ -5,6 +5,7 @@ This folder contains the mesh model and motion parameters for a rear-mounted hot
 ## Files
 
 - `后置换热端完整全套 修复版本.stl`: the complete repaired STL mesh supplied for this project. STL does not contain a parametric feature tree and cannot be edited like a STEP solid; use suitable mesh or CAD software if geometry changes are needed.
+- [Creality K1 single-sided-tooth extruder gear (Voron-compatible STEP)](K1_%E5%8D%95%E8%BE%B9%E9%BD%BF%E6%8C%A4%E5%87%BA%E9%BD%BF%E8%BD%AE_Voron%E9%80%82%E9%85%8D%E7%89%88.step): a structural iteration intended to reduce gear-mesh resistance and extrusion load. Verify fit and extrusion performance in the target assembly.
 - `dock_motion_parameters.txt`: the original Chinese dock-motion parameter snippet. The parameters are explained below.
 - [Rear-Mounted Hotend SB Shell Version (7z archive)](%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AFsb%E5%A4%96%E5%A3%B3%E7%89%88%E6%9C%AC.7z): the supplied shell-version package.
 

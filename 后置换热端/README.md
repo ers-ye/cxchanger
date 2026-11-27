@@ -5,6 +5,7 @@
 ## 文件
 
 - [完整修复版 STL 模型](后置换热端完整全套%20修复版本.stl)：STL 网格模型不含参数化特征树，不能像 STEP 一样直接编辑尺寸。
+- [创想 K1 单边齿挤出齿轮（Voron 适配版 STEP）](K1_%E5%8D%95%E8%BE%B9%E9%BD%BF%E6%8C%A4%E5%87%BA%E9%BD%BF%E8%BD%AE_Voron%E9%80%82%E9%85%8D%E7%89%88.step)：本次上传的结构迭代模型。采用单边齿结构，设计目标是减少齿轮啮合阻力和挤出负载；实际效果需结合装配与挤出测试确认。
 - [停靠坞运动参数](dock_motion_parameters.txt)：原始 Klipper 参数片段。
 - [后置换热端 SB 外壳版本（7z 压缩包）](%E5%90%8E%E7%BD%AE%E6%8D%A2%E7%83%AD%E7%AB%AFsb%E5%A4%96%E5%A3%B3%E7%89%88%E6%9C%AC.7z)：外壳版本文件包。
 - [English guide](README_EN.md)：英文版说明。
